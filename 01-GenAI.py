@@ -1,0 +1,1 @@
+print("the Gen AI tool that I use the most is ChatGPT but I'm most interested about search engine AIs")
